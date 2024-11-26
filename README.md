@@ -13,7 +13,6 @@ This project contains the following folders:
 - **Other_codes/**: This folder contains both the serial and parallelized SHPC codes in Python.
 - **Examples/**: This folder contains different holograms obtained and used for the development of this app, along with the expected results.
 
-## Requirements
+## Requirements and Installation
 
-
-## Installation
+Follow the steps on the user manual
